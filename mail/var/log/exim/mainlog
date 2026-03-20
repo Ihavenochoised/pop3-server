@@ -1,0 +1,243 @@
+2022-01-25 03:23:47 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:23:47 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:23:47 exim 4.89 daemon started: pid=25, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:23:47 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:23:47 Start queue run: pid=28
+2022-01-25 03:23:47 End queue run: pid=28
+2022-01-25 03:23:59 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:23:59 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:23:59 exim 4.89 daemon started: pid=27, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:23:59 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:23:59 Start queue run: pid=29
+2022-01-25 03:23:59 End queue run: pid=29
+2022-01-25 03:24:39 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:24:39 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:24:39 exim 4.89 daemon started: pid=23, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:24:39 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:24:39 Start queue run: pid=25
+2022-01-25 03:24:39 End queue run: pid=25
+2022-01-25 03:27:27 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:27:27 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:27:27 exim 4.89 daemon started: pid=23, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:27:27 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:27:27 Start queue run: pid=25
+2022-01-25 03:27:27 End queue run: pid=25
+2022-01-25 03:29:46 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:29:46 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:29:46 exim 4.89 daemon started: pid=23, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:29:46 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:29:46 Start queue run: pid=25
+2022-01-25 03:29:46 End queue run: pid=25
+2022-01-25 03:34:53 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:34:53 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:34:53 exim 4.89 daemon started: pid=24, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:34:53 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:34:53 Start queue run: pid=26
+2022-01-25 03:34:53 End queue run: pid=26
+2022-01-25 03:36:23 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:36:23 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:36:23 exim 4.89 daemon started: pid=26, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:36:23 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:36:23 Start queue run: pid=28
+2022-01-25 03:36:23 End queue run: pid=28
+2022-01-25 03:37:36 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:37:36 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:37:36 exim 4.89 daemon started: pid=23, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:37:36 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:37:36 Start queue run: pid=25
+2022-01-25 03:37:36 End queue run: pid=25
+2022-01-25 03:38:02 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:38:02 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:38:02 exim 4.89 daemon started: pid=29, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:38:02 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:38:02 Start queue run: pid=31
+2022-01-25 03:38:02 End queue run: pid=31
+2022-01-25 03:39:07 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:39:07 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:39:07 exim 4.89 daemon started: pid=24, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:39:07 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:39:07 Start queue run: pid=26
+2022-01-25 03:39:07 End queue run: pid=26
+2022-01-25 03:41:08 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:41:08 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:41:08 exim 4.89 daemon started: pid=24, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:41:08 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:41:08 Start queue run: pid=26
+2022-01-25 03:41:08 End queue run: pid=26
+2022-01-25 03:42:58 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:42:58 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:42:58 exim 4.89 daemon started: pid=24, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:42:58 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:42:58 Start queue run: pid=26
+2022-01-25 03:42:58 End queue run: pid=26
+2022-01-25 03:45:08 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:45:08 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:45:08 exim 4.89 daemon started: pid=24, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:45:08 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:45:08 Start queue run: pid=26
+2022-01-25 03:45:08 End queue run: pid=26
+2022-01-25 03:46:07 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:46:07 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:46:07 exim 4.89 daemon started: pid=24, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:46:07 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:46:07 Start queue run: pid=26
+2022-01-25 03:46:07 End queue run: pid=26
+2022-01-25 03:50:44 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:50:44 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:50:44 exim 4.89 daemon started: pid=23, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:50:44 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:50:44 Start queue run: pid=25
+2022-01-25 03:50:44 End queue run: pid=25
+2022-01-25 03:50:53 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:50:53 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:50:53 exim 4.89 daemon started: pid=24, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:50:53 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:50:53 Start queue run: pid=26
+2022-01-25 03:50:53 End queue run: pid=26
+2022-01-25 03:53:48 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:53:48 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:53:48 exim 4.89 daemon started: pid=24, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:53:48 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:53:48 Start queue run: pid=26
+2022-01-25 03:53:48 End queue run: pid=26
+2022-01-25 03:54:26 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:54:26 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:54:26 exim 4.89 daemon started: pid=24, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:54:26 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:54:26 Start queue run: pid=26
+2022-01-25 03:54:26 End queue run: pid=26
+2022-01-25 03:58:40 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:58:40 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 03:58:40 exim 4.89 daemon started: pid=23, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 03:58:40 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 03:58:40 Start queue run: pid=25
+2022-01-25 03:58:40 End queue run: pid=25
+2022-01-25 04:00:06 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 04:00:06 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 04:00:06 exim 4.89 daemon started: pid=23, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 04:00:06 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 04:00:06 Start queue run: pid=25
+2022-01-25 04:00:06 End queue run: pid=25
+2022-01-25 04:04:10 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 04:04:10 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 04:04:10 exim 4.89 daemon started: pid=23, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 04:04:10 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 04:04:11 Start queue run: pid=25
+2022-01-25 04:04:11 End queue run: pid=25
+2022-01-25 04:28:55 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 04:28:55 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 04:28:55 exim 4.89 daemon started: pid=23, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 04:28:55 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 04:28:55 Start queue run: pid=25
+2022-01-25 04:28:55 End queue run: pid=25
+2022-01-25 04:32:49 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 04:32:49 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 04:32:49 exim 4.89 daemon started: pid=23, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 04:32:49 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 04:32:49 Start queue run: pid=25
+2022-01-25 04:32:49 End queue run: pid=25
+2022-01-25 04:35:13 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 04:35:13 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 04:35:13 exim 4.89 daemon started: pid=23, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 04:35:13 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 04:35:13 Start queue run: pid=25
+2022-01-25 04:35:13 End queue run: pid=25
+2022-01-25 04:41:34 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 04:41:34 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 04:41:34 exim 4.89 daemon started: pid=23, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 04:41:34 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 04:41:34 Start queue run: pid=25
+2022-01-25 04:41:34 End queue run: pid=25
+2022-01-25 04:42:31 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 04:42:31 Warning: purging the environment.
+ Suggested action: use keep_environment.
+2022-01-25 04:42:31 exim 4.89 daemon started: pid=24, -q15m, listening for SMTP on port 25 (IPv6 and IPv4)
+2022-01-25 04:42:31 Warning: No server certificate defined; will use a selfsigned one.
+ Suggested action: either install a certificate or change tls_advertise_hosts option
+2022-01-25 04:42:32 Start queue run: pid=26
+2022-01-25 04:42:32 End queue run: pid=26
+2022-01-25 07:13:25 Exim configuration file /etc/exim/exim.conf has the wrong owner, group, or mode
+2022-01-25 07:14:48 Exim configuration file /etc/exim/exim.conf has the wrong owner, group, or mode
+2022-01-25 07:15:24 Exim configuration file /etc/exim/exim.conf has the wrong owner, group, or mode
+2022-01-25 07:15:46 Exim configuration file /etc/exim/exim.conf has the wrong owner, group, or mode
+2022-01-25 07:16:36 Exim configuration file /etc/exim/exim.conf has the wrong owner, group, or mode
+2022-01-25 07:17:32 Exim configuration file /etc/exim/exim.conf has the wrong owner, group, or mode
+2022-01-25 07:18:23 Exim configuration file /etc/exim/exim.conf has the wrong owner, group, or mode
+2022-01-25 07:18:46 Exim configuration file /etc/exim/exim.conf has the wrong owner, group, or mode
+2024-06-05 02:06:19 Exim configuration file /etc/exim/exim.conf has the wrong owner, group, or mode

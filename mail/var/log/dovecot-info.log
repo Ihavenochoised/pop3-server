@@ -1,0 +1,95 @@
+Jan 25 03:24:39 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 03:24:55 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=29, session=<PchSoF/WMtWsEQAB>
+Jan 25 03:25:01 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=31, session=<mSVOoV/WNNWsEQAB>
+Jan 25 03:27:27 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 03:27:52 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=29, session=<yTqCq1/WNtWsEQAB>
+Jan 25 03:29:46 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 03:30:02 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=29, session=<2pI1s1/WONWsEQAB>
+Jan 25 03:34:53 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 03:35:02 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=30, session=<s0AQxV/WPNWsEQAB>
+Jan 25 03:36:23 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 03:36:31 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=32, session=<i41lyl/WPtWsEQAB>
+Jan 25 03:37:36 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 03:38:02 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 03:39:07 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 03:39:13 auth: Info: plain(?,172.17.0.1,<TZ4V1F/WQNWsEQAB>): Invalid base64 data in continued response
+Jan 25 03:39:15 pop3-login: Info: Disconnected (auth failed, 1 attempts in 4 secs): user=<>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, session=<TZ4V1F/WQNWsEQAB>
+Jan 25 03:39:19 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=31, session=<jKlo1F/WQtWsEQAB>
+Jan 25 03:39:19 pop3(digitalinvestigator@networksims.com): Info: Namespace '': mkdir(/home/mail/homes/digitalinvestigator@networksims.com/Maildir) failed: Permission denied (euid=90(dovecot) egid=101(dovecot) missing +w perm: /home/mail/homes, dir owned by 0:0 mode=0755) top=0/0, retr=0/0, del=0/0, size=0
+Jan 25 03:41:08 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 03:41:14 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=30, session=<S88w21/WRNWsEQAB>
+Jan 25 03:41:22 pop3(digitalinvestigator@networksims.com): Info: Connection closed top=0/0, retr=0/0, del=0/0, size=0
+Jan 25 03:42:58 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 03:43:04 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=30, session=<zBTZ4V/WRtWsEQAB>
+Jan 25 03:43:06 pop3(digitalinvestigator@networksims.com): Info: Disconnected: Logged out top=0/0, retr=0/0, del=0/0, size=0
+Jan 25 03:45:08 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 03:45:23 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=38, session=<2OIz6l/WSNWsEQAB>
+Jan 25 03:45:23 pop3(digitalinvestigator@networksims.com): Info: Couldn't open INBOX: mkdir(/home/vmail/Maildir/cur) failed: Permission denied (euid=1000(vmail) egid=1000(vmail) missing +w perm: /home/vmail/Maildir, dir owned by 0:0 mode=0755) top=0/0, retr=0/0, del=0/0, size=0
+Jan 25 03:46:07 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 03:46:12 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=30, session=<c08W7V/WTNWsEQAB>
+Jan 25 03:46:14 pop3(digitalinvestigator@networksims.com): Info: Connection closed top=0/0, retr=0/0, del=0/0, size=0
+Jan 25 03:50:44 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 03:50:52 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 03:51:00 auth: Info: plain(?,172.17.0.1,<4tFB/l/WTtWsEQAB>): Invalid base64 data in continued response
+Jan 25 03:51:06 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=30, session=<4tFB/l/WTtWsEQAB>
+Jan 25 03:51:13 pop3(digitalinvestigator@networksims.com): Info: Connection closed top=0/0, retr=0/0, del=0/0, size=0
+Jan 25 03:53:48 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 03:53:59 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=30, session=<o23tCGDWUNWsEQAB>
+Jan 25 03:53:59 pop3(digitalinvestigator@networksims.com): Info: Couldn't init INBOX: Index is read-only, can't write-lock /home/vmail/Maildir/dovecot.index.log top=0/0, retr=0/0, del=0/0, size=0
+Jan 25 03:54:26 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 03:54:29 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=30, session=<dR22CmDWUtWsEQAB>
+Jan 25 03:54:49 pop3(digitalinvestigator@networksims.com): Info: Connection closed top=0/0, retr=0/0, del=0/0, size=0
+Jan 25 03:58:40 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 03:58:46 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=29, session=<dfbaGWDWWNWsEQAB>
+Jan 25 03:58:50 pop3(digitalinvestigator@networksims.com): Info: Connection closed top=0/0, retr=0/0, del=0/0, size=0
+Jan 25 04:00:06 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 04:00:35 pop3-login: Info: Disconnected (client didn't finish SASL auth, waited 4 secs): user=<>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, session=<yh1WIGDWWtWsEQAB>
+Jan 25 04:00:41 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=30, session=<9qu1IGDWXNWsEQAB>
+Jan 25 04:00:44 pop3(digitalinvestigator@networksims.com): Info: Connection closed top=0/0, retr=0/0, del=0/0, size=0
+Jan 25 04:04:10 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 04:04:59 auth: Info: plain(?,172.17.0.1,<iXI+MGDWXtWsEQAB>): Invalid base64 data in continued response
+Jan 25 04:05:05 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=29, session=<iXI+MGDWXtWsEQAB>
+Jan 25 04:28:55 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 04:29:07 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=29, session=<0iwohmDWYNWsEQAB>
+Jan 25 04:32:49 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 04:32:54 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=29, session=</7calGDWZNWsEQAB>
+Jan 25 04:33:59 pop3(digitalinvestigator@networksims.com): Info: Connection closed top=0/0, retr=1/19, del=0/1, size=5
+Jan 25 04:35:13 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 04:35:32 auth: Info: plain(?,172.17.0.1,<nn1tnWDWZtWsEQAB>): Invalid base64 data in continued response
+Jan 25 04:35:38 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=29, session=<nn1tnWDWZtWsEQAB>
+Jan 25 04:35:46 pop3(digitalinvestigator@networksims.com): Info: Connection closed top=0/0, retr=1/19, del=0/1, size=5
+Jan 25 04:41:34 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 04:41:39 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=29, session=<SdA/s2DWaNWsEQAB>
+Jan 25 04:41:49 pop3(digitalinvestigator@networksims.com): Info: Connection closed top=0/0, retr=1/16, del=0/1, size=2
+Jan 25 04:42:31 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3
+Jan 25 04:42:32 pop3-login: Info: Disconnected (no auth attempts in 0 secs): user=<>, rip=172.17.0.1, lip=172.17.0.2, session=<+OSYtmDWatWsEQAB>
+Jan 25 04:42:40 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=31, session=<3LnItmDWbNWsEQAB>
+Jan 25 04:50:56 pop3(digitalinvestigator@networksims.com): Info: Connection closed top=0/0, retr=1/2239, del=0/1, size=2222
+Jan 25 07:13:25 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3 (core dumps disabled)
+Jan 25 07:13:41 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=38, session=<wkIM02LWELmsEQAB>
+Jan 25 07:13:44 pop3(digitalinvestigator@networksims.com): Info: Connection closed top=0/0, retr=0/0, del=0/1, size=2222
+Jan 25 07:14:48 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3 (core dumps disabled)
+Jan 25 07:14:56 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=30, session=<h+hl12LWFLmsEQAB>
+Jan 25 07:15:09 pop3(digitalinvestigator@networksims.com): Info: Connection closed top=0/0, retr=1/2239, del=0/1, size=2222
+Jan 25 07:15:24 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3 (core dumps disabled)
+Jan 25 07:15:46 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3 (core dumps disabled)
+Jan 25 07:16:36 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3 (core dumps disabled)
+Jan 25 07:17:32 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3 (core dumps disabled)
+Jan 25 07:17:41 pop3-login: Info: Disconnected (no auth attempts in 1 secs): user=<>, rip=172.17.0.1, lip=172.17.0.2, session=<Of134WLWILmsEQAB>
+Jan 25 07:18:23 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3 (core dumps disabled)
+Jun 05 02:06:19 master: Info: Dovecot v2.2.33.2 (d6601f4ec) starting up for pop3 (core dumps disabled)
+Jun 05 02:08:22 pop3-login: Info: Disconnected (no auth attempts in 7 secs): user=<>, rip=172.17.0.1, lip=172.17.0.2, session=<rzl6ChsahNSsEQAB>
+Jun 05 02:14:54 pop3-login: Info: Disconnected: Inactivity (no auth attempts in 180 secs): user=<>, rip=172.17.0.1, lip=172.17.0.2, session=<91TbIRsacKSsEQAB>
+Jun 05 02:22:09 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=23, session=<PhUsOxsampOsEQAB>
+Jun 05 02:22:25 pop3(digitalinvestigator@networksims.com): Info: Disconnected: Logged out top=0/0, retr=0/0, del=0/2, size=4444
+Jun 05 02:23:43 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=25, session=<KrjLQBsaUI2sEQAB>
+Jun 05 02:26:19 pop3(digitalinvestigator@networksims.com): Info: Connection closed top=0/0, retr=3/6717, del=0/2, size=4444
+Jun 05 02:26:51 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=28, session=<lr86TBsa6o2sEQAB>
+Jun 05 02:27:32 pop3(digitalinvestigator@networksims.com): Info: Disconnected: Logged out top=0/0, retr=2/4478, del=0/2, size=4444
+Jun 05 02:28:16 auth: Info: passwd-file(digitalinvestigator@networksims.com,172.17.0.1,<5iVMURsaJLKsEQAB>): Password mismatch
+Jun 05 02:28:16 auth: Info: passwd-file(digitalinvestigator@networksims.com,172.17.0.1,<5iVMURsaJLKsEQAB>): unknown user
+Jun 05 02:28:23 pop3-login: Info: Disconnected (auth failed, 1 attempts in 13 secs): user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, session=<5iVMURsaJLKsEQAB>
+Jun 05 02:29:31 pop3-login: Info: Disconnected (client didn't finish SASL auth, waited 2 secs): user=<>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, session=<y5X/VRsapKesEQAB>
+Jun 05 02:29:53 pop3-login: Info: Login: user=<digitalinvestigator@networksims.com>, method=PLAIN, rip=172.17.0.1, lip=172.17.0.2, mpid=33, session=<IhSxVhsaMNasEQAB>
+Jun 05 02:30:16 pop3(digitalinvestigator@networksims.com): Info: Connection closed top=0/0, retr=1/2239, del=0/2, size=4444
+Jun 05 03:13:13 pop3-login: Info: Disconnected (no auth attempts in 13 secs): user=<>, rip=172.17.0.1, lip=172.17.0.2, session=<jy9f8hsarK2sEQAB>

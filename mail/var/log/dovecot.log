@@ -1,0 +1,54 @@
+Jan 25 03:24:55 pop3(digitalinvestigator@networksims.com): Error: Mail access for users with UID 90 not permitted (see first_valid_uid in config file, uid from userdb lookup).
+Jan 25 03:24:55 pop3(digitalinvestigator@networksims.com): Error: Invalid user settings. Refer to server log for more information.
+Jan 25 03:25:01 pop3(digitalinvestigator@networksims.com): Error: Mail access for users with UID 90 not permitted (see first_valid_uid in config file, uid from userdb lookup).
+Jan 25 03:25:01 pop3(digitalinvestigator@networksims.com): Error: Invalid user settings. Refer to server log for more information.
+Jan 25 03:27:52 pop3(digitalinvestigator@networksims.com): Error: Mail access for users with UID 90 not permitted (see first_valid_uid in config file, uid from userdb lookup).
+Jan 25 03:27:52 pop3(digitalinvestigator@networksims.com): Error: Invalid user settings. Refer to server log for more information.
+Jan 25 03:30:02 pop3(digitalinvestigator@networksims.com): Error: Mail access for users with UID 90 not permitted (see first_valid_uid in config file, uid from userdb lookup).
+Jan 25 03:30:02 pop3(digitalinvestigator@networksims.com): Error: Invalid user settings. Refer to server log for more information.
+Jan 25 03:35:02 pop3(digitalinvestigator@networksims.com): Error: Mail access for users with UID 90 not permitted (see first_valid_uid in config file, uid from userdb lookup).
+Jan 25 03:35:02 pop3(digitalinvestigator@networksims.com): Error: Invalid user settings. Refer to server log for more information.
+Jan 25 03:36:31 pop3(digitalinvestigator@networksims.com): Error: Mail access for users with UID 90 not permitted (see first_valid_uid in config file, uid from userdb lookup).
+Jan 25 03:36:31 pop3(digitalinvestigator@networksims.com): Error: Invalid user settings. Refer to server log for more information.
+Jan 25 03:39:19 pop3(digitalinvestigator@networksims.com): Error: Namespace '': mkdir(/home/mail/homes/digitalinvestigator@networksims.com/Maildir) failed: Permission denied (euid=90(dovecot) egid=101(dovecot) missing +w perm: /home/mail/homes, dir owned by 0:0 mode=0755)
+Jan 25 03:45:23 pop3(digitalinvestigator@networksims.com): Error: mkdir(/home/vmail/Maildir/cur) failed: Permission denied (euid=1000(vmail) egid=1000(vmail) missing +w perm: /home/vmail/Maildir, dir owned by 0:0 mode=0755)
+Jan 25 03:45:23 pop3(digitalinvestigator@networksims.com): Error: Couldn't open INBOX: mkdir(/home/vmail/Maildir/cur) failed: Permission denied (euid=1000(vmail) egid=1000(vmail) missing +w perm: /home/vmail/Maildir, dir owned by 0:0 mode=0755)
+Jan 25 03:51:06 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extension record, removing: test.txt
+Jan 25 03:51:06 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extended fields: test.txt
+Jan 25 03:53:59 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extension record, removing: test.txt
+Jan 25 03:53:59 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extended fields: test.txt
+Jan 25 03:53:59 pop3(digitalinvestigator@networksims.com): Error: Index is read-only, can't write-lock /home/vmail/Maildir/dovecot.index.log
+Jan 25 03:53:59 pop3(digitalinvestigator@networksims.com): Error: Couldn't init INBOX: Index is read-only, can't write-lock /home/vmail/Maildir/dovecot.index.log
+Jan 25 03:54:29 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extension record, removing: test.txt
+Jan 25 03:54:29 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extended fields: test.txt
+Jan 25 03:58:46 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extension record, removing: test.txt:2,
+Jan 25 03:58:46 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extended fields: test.txt:2,
+Jan 25 04:00:41 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extension record, removing: test:2,Sb
+Jan 25 04:00:41 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extended fields: test:2,Sb
+Jan 25 04:05:05 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extension record, removing: 1.25006.foo.org:2,S
+Jan 25 04:05:05 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extended fields: 1.25006.foo.org:2,S
+Jan 25 04:29:07 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extension record, removing: 1.25006.foo.org:2,
+Jan 25 04:29:07 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extended fields: 1.25006.foo.org:2,
+Jan 25 04:32:54 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extension record, removing: test
+Jan 25 04:32:54 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extended fields: test
+Jan 25 04:35:38 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extension record, removing: 0MXLgA-1AB2Ru34ja
+Jan 25 04:35:38 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extended fields: 0MXLgA-1AB2Ru34ja
+Jan 25 04:41:39 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extension record, removing: 0MXLgA-1AB2Ru34ja
+Jan 25 04:41:39 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extended fields: 0MXLgA-1AB2Ru34ja
+Jan 25 04:42:40 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extension record, removing: 0MXLgA-1AB2Ru34ja
+Jan 25 04:42:40 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extended fields: 0MXLgA-1AB2Ru34ja
+Jan 25 07:13:25 master: Error: fstat(/var/lib/dovecot/instances.lock) failed: Invalid argument
+Jan 25 07:13:25 master: Error: file_dotlock_open(/var/lib/dovecot/instances) failed: Invalid argument
+Jan 25 07:13:41 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extension record, removing: 0MXLgA-1AB2Ru34ja
+Jan 25 07:13:41 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extended fields: 0MXLgA-1AB2Ru34ja
+Jan 25 07:14:48 master: Error: fstat(/var/lib/dovecot/instances.lock) failed: Invalid argument
+Jan 25 07:14:48 master: Error: file_dotlock_open(/var/lib/dovecot/instances) failed: Invalid argument
+Jan 25 07:14:56 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extension record, removing: 0MXLgA-1AB2Ru34ja
+Jan 25 07:14:56 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extended fields: 0MXLgA-1AB2Ru34ja
+Jan 25 07:16:36 master: Error: fstat(/var/lib/dovecot/instances.lock) failed: Invalid argument
+Jan 25 07:16:36 master: Error: file_dotlock_open(/var/lib/dovecot/instances) failed: Invalid argument
+Jan 25 07:17:34 master: Error: file_dotlock_open(/var/lib/dovecot/instances) failed: Invalid argument
+Jan 25 07:18:23 master: Error: fstat(/var/lib/dovecot/instances.lock) failed: Invalid argument
+Jan 25 07:18:23 master: Error: file_dotlock_open(/var/lib/dovecot/instances) failed: Invalid argument
+Jun 05 02:22:09 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extension record, removing: 0MXLgA-1AB2Ru34ja
+Jun 05 02:22:09 pop3(digitalinvestigator@networksims.com): Error: Broken file /home/vmail/Maildir/dovecot-uidlist line 2: Invalid extended fields: 0MXLgA-1AB2Ru34ja
